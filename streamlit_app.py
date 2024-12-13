@@ -78,9 +78,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/qn86M9h/3.jpg",
+            "https://i.ibb.co/JnDV13P/4.jpg",
+            "https://i.ibb.co/YtYQ4VX/5.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -95,7 +95,7 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/S6MwyKt/2.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
